@@ -1,0 +1,9 @@
+pe\com\erka\entity\ProductoEntity.class
+pe\com\erka\entity\RolEntity.class
+pe\com\erka\entity\Cliente.class
+pe\com\erka\entity\ProductoEntity$ProductoEntityBuilder.class
+pe\com\erka\entity\DistritoEntity.class
+pe\com\erka\AplicacionerkaApplication.class
+pe\com\erka\entity\NegocioEntity$NegocioEntityBuilder.class
+pe\com\erka\entity\EmpleadoEntity.class
+pe\com\erka\entity\NegocioEntity.class
